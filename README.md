@@ -2,16 +2,17 @@ USACovidHosp
 ==============================
 
 Geospatial data science exploration of Covid cases in the contignuous US hospitals.
+Hospital data from: https://www.kaggle.com/jaswanthhbadvelu/us-hospital-location-with-covid-cases-for-counties
 
-**Goal**: Plot the hospital cases on a map of the contiguous USA, varying in size based on the count of cases in the hospital.
+**Goal: Plot the hospital cases on a map of the contiguous USA, varying in size based on the count of cases in the hospital.**
 
-Steps covered:
+**Steps covered:**
 - Wrangle and Clean Data
 - Add County and State FIPS
 - Convert to GeoDataFrame
 - Plot hospital Covid cases
 
-Future steps currently being worked on:
+**Steps in-progress:**
 - Plot hospital Covid case percent of county population
 
 
